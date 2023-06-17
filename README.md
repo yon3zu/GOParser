@@ -1,7 +1,7 @@
 # GOParser
 URL Parser From TEXT / JSON Build with GO
 
-Before parsed :
+## Before parsed :
 ```{
 "1": [
     {"name": "link 1",
@@ -22,7 +22,7 @@ Before parsed :
 }
 ```
 
-After parsed :
+## After parsed :
 
 ```
 https://url-for-link-1.com
@@ -33,5 +33,6 @@ https://url-for-link-5.com
 https://url-for-link-6.com
 ```
 
-Preview :
+# Preview :
+
 <img src="https://raw.githubusercontent.com/yon3zu/GOParser/main/goparser.png" height="400">
