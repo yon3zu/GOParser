@@ -19,7 +19,8 @@ Before parsed :
     {"name": "link 6",
         "url": "https://url-for-link-6.com"}
     ]   
-}```
+}
+```
 
 After parsed :
 
@@ -29,7 +30,8 @@ https://url-for-link-2.com
 https://url-for-link-3.com
 https://url-for-link-4.com
 https://url-for-link-5.com
-https://url-for-link-6.com```
+https://url-for-link-6.com
+```
 
 Preview :
 <img src="https://raw.githubusercontent.com/yon3zu/GOParser/main/goparser.png" height="400">
